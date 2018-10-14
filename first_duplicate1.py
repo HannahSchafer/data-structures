@@ -1,4 +1,6 @@
 def first_duplicate(a):
+    """return first duplicate in an array"""
+    
     i = 0
     seen_set = set()
     
