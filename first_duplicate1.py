@@ -1,3 +1,5 @@
+----------------------
+
 def first_duplicate(a):
     i = 0
     seen_set = set()
